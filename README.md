@@ -81,20 +81,35 @@ The system consists of **7 normalized tables**:
 ## 📁 Project Structure
 
 Library-Management-System/
+
 │
+
 ├── Database_and_Tables.sql             # Table creation, PKs, FKs, and constraints
+
 ├── Insert_records.sql                  # Comprehensive seed data (authors, books, members)
+
 ├── WHERE_statements.sql                # Data filtering and pattern matching queries
+
 ├── GROUPBY_and_AGGREGATE_functions.sql # Grouping and summary calculations
+
 ├── Joins.sql                           # Multi-table relational queries
+
 ├── Single_Row_Functions.sql            # String and scalar functions
+
 ├── Sub_Query_Statements.sql            # Nested and correlated subqueries
+
 ├── Triggers.sql                        # Event triggers for inventory automation
+
 ├── Stored_Procedure.sql                # Reusable procedures for operations
+
 ├── Views.sql                           # Reporting views
+
 ├── ERD.png                             # Entity-Relationship Diagram
+
 ├── PROJECT_REPORT.docx                 # Formal 20-section project documentation
+
 ├── LICENSE                             # MIT License
+
 └── README.md                           # Documentation
 
 ## 📌 Project Summary
