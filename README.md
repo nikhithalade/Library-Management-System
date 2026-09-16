@@ -5,12 +5,14 @@
   The project demonstrates practical SQL and database concepts including DDL, DML, filtering, aggregate functions, GROUP BY, HAVING, joins, single-row               functions, subqueries, views, triggers, and stored procedures.
 
 **🛠️ Technologies Used**
+  
   MySQL
   SQL
   MySQL Workbench
   MySQL Command Line Client
   
 **✨ Features**
+  
   📖 Book management
   ✍️ Author management
   🏷️ Category management
@@ -25,6 +27,7 @@
   📦 Stored procedures
   
 **🗃️ Database Tables**
+  
   The system consists of the following tables:
   
   authors
@@ -34,9 +37,15 @@
   librarians
   borrowings
   fines
+  
 **🔗 ER Diagram**
 
+<p align="center">
+  <img src="ERD.png" alt="Library Management System ER Diagram" width="900">
+</p>
+
 **🔎 SQL Concepts**
+  
   DDL & DML
   WHERE conditions
   Aggregate functions
@@ -52,6 +61,7 @@
   Stored Procedures
   
 **📁 Project Structure**
+ 
   Library-Management-System/
   │
   ├── Database_and_Tables.sql
@@ -68,6 +78,7 @@
   └── README.md
   
 **🚀 How to Run**
+ 
   Install MySQL Server and MySQL Workbench.
   Clone this repository.
   Open the SQL files in MySQL Workbench.
@@ -84,8 +95,10 @@
   Views.sql
   
 **📌 Project**
+ 
   Library Management System
   Built using MySQL and SQL to manage library operations and demonstrate relational database functionality.
 
 **⭐ Support**
+ 
   If you find this project useful, consider giving the repository a ⭐.
